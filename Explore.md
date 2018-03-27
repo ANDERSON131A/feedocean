@@ -20,6 +20,8 @@
 
 ## News
 
+* [cnBeta.COM](https://feedocean.com/feeds/gjn0yf) - 最新业界资讯
+
 ## Programming
 
 * [Infoq](https://feedocean.com/feeds/d519ydb) - Software Development News, Videos & Books
